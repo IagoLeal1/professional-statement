@@ -1,6 +1,6 @@
 # Professional Statement
 
-Hi my name is Iago Leal i'm currently studying cybersecurity and i liked it a lot, my first experience with cybersecurity was when i developed a WebSite for Casa Libelle.
+Hi my name is Iago Leal i'm currently studying cybersecurity and i liked it a lot, my first experience with cybersecurity was when i developed a WebSite for Casa Libelle and cared a lot about data and other stuffs.
 
 My top Strengths are:
 - Proactivity: I'm a curious person, i like to see problems and discuss solutions to that problem to propose a better way to resolve that
